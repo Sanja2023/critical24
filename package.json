@@ -68,6 +68,7 @@
   },
   "devDependencies": {
     "async": "^3.2.5",
+    "critical": "^7.1.1",
     "cross-env": "^7.0.3",
     "finalhandler": "^1.2.0",
     "get-port": "^7.1.0",
