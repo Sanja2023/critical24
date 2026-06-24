@@ -2,7 +2,7 @@
 
 # critical
 
-Critical extracts & inlines critical-path (above-the-fold) CSS from HTML
+Some details about how "Critical" extracts & inlines critical-path (above-the-fold) CSS from HTML
 
 <img src="https://raw.githubusercontent.com/addyosmani/critical/master/preview.png" alt="Preview" width="378">
 
