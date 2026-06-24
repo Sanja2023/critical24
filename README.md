@@ -1,8 +1,10 @@
 [![NPM version][npm-image]][npm-url] [![Build Status][ci-image]][ci-url] [![Coverage][coveralls-image]][coveralls-url]
 
+I am editing the README file. Adding some more details about the project description.
+
 # critical
 
-Some details about how "Critical" extracts & inlines critical-path (above-the-fold) CSS from HTML
+Critical extracts & inlines critical-path (above-the-fold) CSS from HTML
 
 <img src="https://raw.githubusercontent.com/addyosmani/critical/master/preview.png" alt="Preview" width="378">
 
